@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: jMockit library repackaged for OSGi
 Bundle-SymbolicName: org.globaltester.lib.jmockit
-Bundle-Version: 0.1.0
+Bundle-Version: 0.1.1
 Export-Package: mockit
 Bundle-ClassPath: jmockit-coverage.jar,
  jmockit.jar
