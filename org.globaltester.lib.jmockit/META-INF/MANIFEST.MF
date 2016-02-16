@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: jMockit library repackaged for OSGi
+Bundle-Name: GT JMockit
 Bundle-SymbolicName: org.globaltester.lib.jmockit
 Bundle-Version: 0.1.1
 Bundle-Vendor: HJP Consulting GmbH
