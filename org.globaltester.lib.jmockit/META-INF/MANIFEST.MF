@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: GT JMockit
 Bundle-SymbolicName: org.globaltester.lib.jmockit
 Bundle-Version: 0.2.0.qualifier
-Bundle-Vendor: HJP Consulting GmbH
+Bundle-Vendor: secunet Security Networks AG
 Export-Package: mockit
 Bundle-ClassPath: jmockit-coverage.jar,
  jmockit.jar
